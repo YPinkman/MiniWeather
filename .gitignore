@@ -1,0 +1,14 @@
+.dotnet/
+.nuget/
+testdata/
+MiniWeather/bin/
+MiniWeather/obj/
+MiniWeather/.tmp/
+.templateengine/
+NuGet/
+sources/
+dist/
+dotnet-install.ps1
+AGENTS.md
+.vs/
+*.user
